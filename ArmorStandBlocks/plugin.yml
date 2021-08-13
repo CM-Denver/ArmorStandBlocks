@@ -1,0 +1,7 @@
+version: 1.0
+name: ArmorStandBlocks
+main: com.william.plugin.Main
+
+author: me
+description: Spawns in a wall of mini wood "blocks" using invisible armor stand!
+
